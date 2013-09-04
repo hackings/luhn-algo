@@ -2,8 +2,8 @@ Introduction
 ============
 
 
-Develop an application using Ruby that solves the problem described below. The
-aim of the problem is to allow the candidate to demonstrate their skill and
+An application using Ruby that solves the problem described below. The
+aim of the problem is to demonstrate skill and
 experience in aspects of the development process including domain modelling,
 object orientated design, use of language constructs and idioms and testing
 (unit or otherwise).
