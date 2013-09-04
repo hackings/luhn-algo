@@ -1,0 +1,3 @@
+class MasterCard < CreditCard
+
+end

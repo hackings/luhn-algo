@@ -1,0 +1,3 @@
+class Amex < CreditCard
+
+end

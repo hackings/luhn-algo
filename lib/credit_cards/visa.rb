@@ -1,0 +1,3 @@
+class Visa < CreditCard
+
+end

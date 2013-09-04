@@ -1,0 +1,3 @@
+class Discover < CreditCard
+
+end
